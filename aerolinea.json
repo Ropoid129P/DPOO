@@ -1,7 +1,0 @@
-{
-  "aviones": [ {"nombre": "Boeing737", "capacidad": 150} ],
-  "aeropuertos": [ {"nombre": "Alfonso Bonilla", "codigo": "CLO", "nombreCiudad": "Cali", "latitud": 3.5432, "longitud": -76.3816},
-                     {"nombre": "Rafael Nunez", "codigo": "CTG", "nombreCiudad": "Cartagena", "latitud": 10.4424, "longitud": -75.513} ],
-  "rutas": [ {"codigoRuta": "4558", "horaSalida": "900", "horaLlegada": "1030", "origen": "CLO", "destino": "CTG"} ],
-  "vuelos": [ {"fecha": "2024-11-05", "codigoRuta": "4558", "avion": "Boeing737"} ]
-}
